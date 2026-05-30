@@ -38,8 +38,6 @@ My research sits at the intersection of NLP, uncertainty-aware systems, and buil
 
 > **Media bias and misinformation** — particularly in Indic languages where annotated data is scarce and the problem is very real.
 
-A lot of ongoing work I can't share publicly yet, but these are the directions I'm moving in.
-
 ---
 
 ## 📄 Publications
@@ -102,9 +100,9 @@ IIT Gandhinagar    │ Research Intern    │ Feb 2025 – Apr 2025  │ Supervi
 
 | Project | What it does |
 |---|---|
-| [**LearnWise**](https://github.com/roh8exe/learnwise) | Multi-agent RAG platform turning lecture videos and PDFs into structured notes, MCQ quizzes, and interactive Q&A. Whisper + FAISS + LLaMA-3/Mistral. |
-| [**Real-Time Object Detection**](https://github.com/roh8exe/object-detection-flutter) | Flutter app with Google ML Kit + MobileNetV3, text-to-speech for detected objects. Built for accessibility, tested with real users. |
-| [**CopBot & CopHelp**](https://github.com/roh8exe/police-station-assistant) | NLP chatbots for police stations: incident classification and legal FAQ. Bilingual voice UI (Hindi/English). Runner-up, Goa Police Hackathon 2024. |
+| [**LearnWise**](https://github.com/roh8exe/LearnWise) &nbsp;[`docs`](https://docs.google.com/document/u/1/d/1wPANDyRR1lOeG5iKZDyUX2cuD2XLmIot3WA_NVs6BgY/edit?usp=sharing) | Multi-agent RAG platform turning lecture videos and PDFs into structured notes, MCQ quizzes, and interactive Q&A. Whisper + FAISS + LLaMA-3/Mistral. |
+| [**Real-Time Object Detection**](https://github.com/roh8exe/MobileNetv3) &nbsp;[`demo`](https://drive.google.com/file/d/1wdoVM2Or9IfguEYMed33KSHTfCZVh6D9/view) | Flutter app with Google ML Kit + MobileNetV3, text-to-speech for detected objects. Built for accessibility, tested with real users. |
+| [**CopBot & CopHelp**](https://github.com/roh8exe/PoliceChatbots) &nbsp;[`docs`](https://drive.google.com/file/d/1FVFlhgSktTKmXMJQSCl3RzrusXvZJZ8A/view) | NLP chatbots for police stations: incident classification and legal FAQ. Bilingual voice UI (Hindi/English). Runner-up, Goa Police Hackathon 2024. |
 
 ---
 
@@ -129,18 +127,6 @@ techniques  = ["SFT", "GRPO", "Conformal Prediction", "RAG", "Multilingual NLP",
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roh8exe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roh8exe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=roh8exe&theme=tokyonight&hide_border=true&background=0d1117)
-
-</div>
-
----
 
 <div align="center">
 
