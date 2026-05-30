@@ -26,18 +26,6 @@
 
 ---
 
-## 🧭 What I'm interested in
-
-My research sits at the intersection of NLP, uncertainty-aware systems, and building things that work for underrepresented languages and domains. A few threads I keep pulling on:
-
-> **Legal AI** — reasoning over structured legal text, handling jurisdiction-specific nuance, and building systems reliable enough to actually use in practice.
-
-> **Low-resource and multilingual NLP** — most of the world doesn't speak English. Most NLP doesn't reflect that. I want to keep working on this.
-
-> **Uncertainty quantification** — conformal prediction, calibration, knowing when your model doesn't know. Especially in retrieval and generation settings.
-
-> **Media bias and misinformation** — particularly in Indic languages where annotated data is scarce and the problem is very real.
-
 ---
 
 ## 📄 Publications
