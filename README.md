@@ -1,167 +1,151 @@
-# Hey there, I'm Rohit! 👋
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Rohit%20Kumar&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=AI%20Researcher%20%7C%20NLP%20%7C%20PhD%20Applicant%20Fall%202027&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+
+</div>
 
 <div align="center">
-  
-### Third-Year Undergrad @ IIT Goa
-### Building AI Systems That Actually Work in the Real World
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-bansal-/)
-[![Email](https://img.shields.io/badge/Email-Drop%20a%20Line-red?style=for-the-badge&logo=gmail)](mailto:rohit.kumar.23063@iitgoa.ac.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-bansal-/)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohit.kumar.23063@iitgoa.ac.in)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roh8exe)
 
 </div>
 
 ---
 
-## 🚀 What I'm About
+<div align="center">
 
-I'm an undergrad trying to explore different aspects of tech, AI, and ML through research and real-world projects. My goal? To build something meaningful that actually helps people.
+### Third-year undergrad at IIT Goa doing research in AI/ML and NLP full-time.
+### Applying for a PhD in CS — Fall 2027.
 
-**I like working on real-world AI systems where code actually ships, breaks, and gets fixed — not just notebooks.**
+*I build systems that work outside the notebook. Things that ship, break, and get fixed.*
 
-Currently, I'm diving deep into:
-- 🧠 **Multimodal AI** for medical applications (stroke outcome prediction @ University of Waterloo)
-- 📚 **RAG pipelines** for mechanical engineering knowledge bases (@ noCnX)
-- 🌐 **Multilingual NLP** and toxicity detection for Indic languages
-- 🎓 **AI-powered education tools** that make learning more accessible
+</div>
 
 ---
 
-## 💼 What I'm Working On Right Now
+## 🧭 What I'm interested in
 
-### 🏥 Research Intern @ University of Waterloo *(June 2025 - Present)*
-Working with **Dr. Sirisha Rambhatla** on predicting stroke outcomes using multimodal AI
-- Combining MRI/CT imaging with clinical data for 3-month mRS prediction
-- Building ML ensemble models and medical image segmentation pipelines
-- Making AI work for healthcare where it actually matters
+My research sits at the intersection of NLP, uncertainty-aware systems, and building things that work for underrepresented languages and domains. A few threads I keep pulling on:
 
-### 🏭 ML Project Lead @ noCnX *(July 2025 - Present)*
-Leading development of a full-stack RAG pipeline for mechanical engineering
-- Helping factory-floor workers get instant answers from technical documents
-- Building document ingestion, embedding, and retrieval systems
-- Making knowledge accessible to people who need it most
+> **Legal AI** — reasoning over structured legal text, handling jurisdiction-specific nuance, and building systems reliable enough to actually use in practice.
 
-### 📝 Co-authored Research @ IIT Gandhinagar *(Feb 2025 - Apr 2025)*
-Created the first large-scale Punjabi toxicity dataset (39k+ annotated comments) with **Dr. Mayank Singh**
-- Built toxicity detection models for 7+ Indic languages
-- Achieved 80.29% accuracy on Punjabi text classification
-- Co-authored **UNITYAI-GUARD** (submitted to EMNLP 2025)
-- [Check out the research paper](your-link-here) | [Visit project website](your-link-here)
+> **Low-resource and multilingual NLP** — most of the world doesn't speak English. Most NLP doesn't reflect that. I want to keep working on this.
+
+> **Uncertainty quantification** — conformal prediction, calibration, knowing when your model doesn't know. Especially in retrieval and generation settings.
+
+> **Media bias and misinformation** — particularly in Indic languages where annotated data is scarce and the problem is very real.
+
+A lot of ongoing work I can't share publicly yet, but these are the directions I'm moving in.
 
 ---
 
-## 🛠️ Projects I'm Proud Of
+## 📄 Publications
 
-### 🎓 [LearnWise](https://github.com/roh8exe/learnwise) - AI-Powered Learning Assistant
-*Because lecture videos shouldn't be painful to review*
+<table>
+<tr>
+<td width="60px" align="center">🏆</td>
+<td>
 
-Built an intelligent platform that transforms lectures into structured notes and interactive Q&A
-- Custom RAG pipeline with Whisper for transcription + FAISS semantic search
-- Real-time summarization, multilingual speech-to-text, personalized Q&A
-- Modular agents for quiz generation and concept explanation
+**UNITYAI-GUARD: Multilingual Toxicity Detection for Indic Languages**  
+*EMNLP 2025, System Demos* — co-first author  
+Built a multilingual platform for toxicity detection across 6 low-resource Indic languages. Curated the first large-scale Punjabi toxicity dataset (39k+ annotated instances). Fine-tuned mBERT to 80.29% accuracy on Punjabi.
 
-**Tech:** Python, React, FastAPI, Whisper, FAISS, LangChain, Hugging Face
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">🔬</td>
+<td>
 
----
+**StrategyIR: Risk-Calibrated Tactical Ranking over Cricket Action Spaces**  
+*Under Review — IEEE Transactions on AI*  
+Uncertainty-aware retrieval system for cricket analytics using conformal risk control. Player profiling over 3,947 players. 92% empirical coverage, outperforming all baselines.
 
-### 👁️ [Real-Time Object Detection App](https://github.com/roh8exe/object-detection-flutter) - Accessibility Focused
-*Making the world more accessible, one detection at a time*
+</td>
+</tr>
+<tr>
+<td width="60px" align="center">📽️</td>
+<td>
 
-Flutter app with real-time object detection and text-to-speech for visually impaired users
-- Integrated Google ML Kit + MobileNetV3 (trained on 10M+ images)
-- Audible announcements for detected objects
-- Actually tested with users to make sure it works
+**FRAME-RAR: Frequency-Enhanced Motion History with Retrieval-Augmented Recognition for Real-Time Video Understanding**  
+*Preprint*  
+Dual-stream video action recognition pipeline. 232 FPS, 78.75% top-1 accuracy on UCF-101.
 
-**Tech:** Flutter, Dart, Google ML Kit, MobileNetV3
-
----
-
-### 👮 [CopBot & CopHelp](https://github.com/roh8exe/police-station-assistant) - AI for Public Services
-*Runner-up @ Goa Police Hackathon 2024*
-
-Voice-activated bilingual system for police stations (because not everyone speaks English)
-- COPBOT: Incident classification and case filing guidance
-- COPHELP: FAQ-based legal query answering
-- Custom legal dataset mapping real-world scenarios to case procedures
-- Deployed Flask API with case tracking and real-time workflows
-
-**Tech:** Python, Hugging Face, Flask, Scikit-learn, TensorFlow
+</td>
+</tr>
+</table>
 
 ---
 
-## 🧰 Tech Stack
+## 🧪 Research Experience
 
-```python
-languages = ["Python", "C++", "Java", "JavaScript", "Dart", "SQL"]
-frameworks = ["React", "Node.js", "FastAPI", "Flask", "Flutter"]
-ml_tools = ["TensorFlow", "PyTorch", "Scikit-learn", "Hugging Face", "LangChain"]
-data_science = ["Pandas", "NumPy", "Matplotlib"]
-tools = ["Git", "Docker", "VS Code", "Android Studio"]
+```
+IIT Patna          │ Research Intern    │ Nov 2025 – Jan 2026  │ Supervisor: Dr. Sriparna Saha
+noCnX              │ Applied ML Lead    │ Jun 2025 – Dec 2025
+Univ. of Waterloo  │ Research Intern    │ Jun 2025 – Nov 2025  │ Supervisor: Dr. Sirisha Rambhatla
+IIT Gandhinagar    │ Research Intern    │ Feb 2025 – Apr 2025  │ Supervisor: Dr. Mayank Singh
 ```
 
-**What I'm learning:** Advanced RAG architectures, medical image segmentation, and how to make ML models that don't just work in Colab
+**IIT Patna** — Contributed to FieldSight, a cricket dataset of 3,046 annotated ball-by-ball instances. Implemented conformal risk control for uncertainty-aware tactical ranking. Built the player profiling module.
+
+**noCnX** — Built MoldGPT, a multimodal RAG system combining text and diagram retrieval with Whisper STT for multilingual voice queries. PostgreSQL and Redis for session management, automated document ingestion with access control.
+
+**University of Waterloo** — Multimodal AI for 3-month mRS prediction in acute ischemic stroke patients. Fused imaging biomarkers and clinical risk factors, evaluated ensemble ML models for stroke volume and clot burden.
+
+**IIT Gandhinagar** — Built the multilingual React + FastAPI platform and the Punjabi toxicity dataset. This work became UNITYAI-GUARD.
 
 ---
 
-## 🎯 Why I Build What I Build
+## 🛠️ Projects
 
-Most of my projects come from seeing real problems:
-- **LearnWise** → Struggling to review 2-hour lectures before exams
-- **Object Detection App** → Meeting someone who couldn't navigate independently
-- **CopBot** → Watching people struggle with legal procedures at police stations
-- **RAG for Mechanical Engineering** → Factory workers needing instant access to technical docs
-
-I believe the best tech is the tech that makes someone's day a little easier.
+| Project | What it does |
+|---|---|
+| [**LearnWise**](https://github.com/roh8exe/learnwise) | Multi-agent RAG platform turning lecture videos and PDFs into structured notes, MCQ quizzes, and interactive Q&A. Whisper + FAISS + LLaMA-3/Mistral. |
+| [**Real-Time Object Detection**](https://github.com/roh8exe/object-detection-flutter) | Flutter app with Google ML Kit + MobileNetV3, text-to-speech for detected objects. Built for accessibility, tested with real users. |
+| [**CopBot & CopHelp**](https://github.com/roh8exe/police-station-assistant) | NLP chatbots for police stations: incident classification and legal FAQ. Bilingual voice UI (Hindi/English). Runner-up, Goa Police Hackathon 2024. |
 
 ---
 
-## 🏆 Cool Stuff I've Done
+## ⚙️ Stack
 
-- 🥈 **Runner-up, Goa Police Hackathon 2024** (Top 2 out of 32 teams)
-- 🧮 **Indian Olympiad Qualifier in Mathematics (IOQM)**
-- 🔬 **Kishore Vaigyanik Protsahan Yojana (KVPY)** Scholar
-- 🌟 **Junior Scientist of the Year** @ National Science Camp (180 students nationwide)
+```python
+languages   = ["Python", "C++", "Java", "JavaScript", "SQL", "Dart"]
+ml          = ["PyTorch", "HuggingFace", "Scikit-Learn", "TensorFlow", "vLLM", "LoRA", "PEFT"]
+infra       = ["SLURM", "HPC/Linux", "Docker", "Git", "FAISS", "PostgreSQL", "Redis"]
+web         = ["React", "FastAPI", "Flask", "Flutter"]
+techniques  = ["SFT", "GRPO", "Conformal Prediction", "RAG", "Multilingual NLP", "Fine-tuning"]
+```
+
+---
+
+## 🏅 Achievements
+
+- 🥈 Runner-up, Goa Police Hackathon 2024 (2nd out of 32 state-level teams)
+- 📐 Indian Olympiad Qualifier in Mathematics (IOQM)
+- 🔬 Kishore Vaigyanik Protsahan Yojana (KVPY) Scholar
+- 🌟 Junior Scientist of the Year, National Science Camp (180 students nationwide)
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roh8exe&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roh8exe&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=roh8exe&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roh8exe&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=roh8exe&theme=tokyonight&hide_border=true&background=0d1117)
 
 </div>
 
 ---
 
-## 🤝 Let's Build Something Together
-
-I'm always open to collaborating on:
-- 🏥 Healthcare AI projects
-- 🌐 Multilingual NLP applications
-- 📚 Educational technology
-- 🏭 Industry-focused ML solutions
-- 🔬 Research that actually ships
-
-**Currently exploring:** Medical AI, Advanced RAG systems, Multimodal learning
-
----
-
-## 📫 Reach Out
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/rohit-bansal-/)
-- 📧 [rohit.kumar.23063@iitgoa.ac.in](mailto:rohit.kumar.23063@iitgoa.ac.in)
-- 📱 +91 8054971431
-
----
-
 <div align="center">
-  
-### "The best way to predict the future is to build it." 
-  
-**Let's build something meaningful together** 🚀
 
-![Profile Views](https://komarev.com/ghpvc/?username=roh8exe&color=brightgreen)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+
+📧 rohit.kumar.23063@iitgoa.ac.in &nbsp;|&nbsp; rohitbansal547@gmail.com &nbsp;|&nbsp; +91 8054971431
 
 </div>
